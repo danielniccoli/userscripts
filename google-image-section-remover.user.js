@@ -6,7 +6,7 @@
 // @namespace   https://github.com/danielniccoli/userscripts
 // @homepageURL https://github.com/danielniccoli/userscripts
 // @supportURL  https://github.com/danielniccoli/userscripts/issues
-// @downloadURL https://github.com/danielniccoli/userscripts/blob/main/google-image-section-remover.user.js
+// @downloadURL https://github.com/danielniccoli/userscripts/raw/main/google-image-section-remover.user.js
 // @match       https://www.google.com/search
 // ==/UserScript==
 
