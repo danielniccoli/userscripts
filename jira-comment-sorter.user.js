@@ -7,6 +7,7 @@
 // @homepageURL https://github.com/danielniccoli/userscripts
 // @supportURL  https://github.com/danielniccoli/userscripts/issues
 // @downloadURL https://github.com/danielniccoli/userscripts/raw/main/jira-comment-sorter.user.js
+// @license     https://github.com/danielniccoli/userscripts/blob/main/LICENSE
 // @match       https://jira.atlassian.com/browse/*
 // ==/UserScript==
 
